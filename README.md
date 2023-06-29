@@ -4,9 +4,9 @@ This project is a proof of concept (POC) of microfrontends using the Single SPA 
 
 More information about single-spa at: https://single-spa.js.org, Used version 5.x
 
-## Part: react-app1
+## Part: react-parcel
 
-This repository contains `react-app1`, microfrontend que combina os repositories `react-parce` e `utils`, sendo ambos frontends agindo ao mesmo tempo, e o utils apenas servindo funções
+This repository contains `react-parcel`, microfrontend que combina os repositories `react-app1` e `utils`, sendo ambos frontends agindo ao mesmo tempo, e o utils apenas servindo funções
 
 ## Pre Requirements
 
